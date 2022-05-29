@@ -84,3 +84,5 @@
 * `Agora volte para a pasta clonada referente a este projeto e execute:`
     #### Comando
         docker-compose up
+
+* `Verifique se funcionou entrando em:` <i>http://localhost:3000</i>
