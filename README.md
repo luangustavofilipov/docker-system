@@ -1,5 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luan-gustavo-altruda-filipov-04360419a/)
-![GitHub](https://img.shields.io/github/license/luangustavofilipov/page_login) ![GitHub language count](https://img.shields.io/github/languages/count/luangustavofilipov/page_login) ![GitHub last commit](https://img.shields.io/github/last-commit/luangustavofilipov/page_login) ![GitHub top language](https://img.shields.io/github/languages/top/luangustavofilipov/page_login)
+![GitHub](https://img.shields.io/github/license/luangustavofilipov/html-system) ![GitHub language count](https://img.shields.io/github/languages/count/luangustavofilipov/html-system) ![GitHub last commit](https://img.shields.io/github/last-commit/luangustavofilipov/html-system) ![GitHub top language](https://img.shields.io/github/languages/top/luangustavofilipov/html-system)
 </br>
 
 ## Como funciona?
@@ -13,10 +13,6 @@
 <br>
 
 * `Após clonar o repositório entre na pasta do projeto`
-* `Mude para a branch develop`
-
-  #### Comando
-        git checkout develop
 
 <br>
 
