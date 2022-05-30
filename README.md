@@ -23,7 +23,7 @@
     
 <br>
 
-* `Caso não estejam instalos, faça o seguinte:`
+* `Caso não estejam instalados, faça o seguinte:`
     #### Comando
 
         //Atualize os repositórios do sistema
